@@ -1,0 +1,64 @@
+,Scientific Name,Common Name,Class,Biome,IUCN Red List status,percentage of species global range in EAAA,CH trigger,Criterion,Justification
+0,Alophoixus flaveolus,White-throated Bulbul,AVES,[1],LC,2.129240,Likely,3,Migratory
+1,Anthipes monileger,White-gorgeted Flycatcher,AVES,[1],LC,1.236339,Likely,3,Migratory
+2,Ardea insignis,White-bellied Heron,AVES,[1],CR,0.283552,Likely,1a,CR with 0.28% range overlap
+3,Asarcornis scutulata,White-winged Duck,AVES,[1],EN,1.221714,Likely,"1a, 3","EN with 1.22% range overlap, Migratory"
+4,Axis porcinus,Hog Deer,MAMMALIA,[1],EN,0.589480,Likely,1a,EN with 0.58% range overlap
+5,Aythya baeri,Baer's Pochard,AVES,[1],CR,0.133436,Likely,1a,CR with 0.13% range overlap
+6,Bangana dero,Kalabans,ACTINOPTERYGII,[1],LC,1.268216,Likely,3,Migratory
+7,Carpodacus sipahi,Scarlet Finch,AVES,[1],LC,1.549775,Likely,3,Migratory
+8,Cephalopyrus flammiceps,Fire-capped Tit,AVES,[1],LC,1.061289,Likely,3,Migratory
+9,Cuon alpinus,Dhole,MAMMALIA,[1],EN,0.355085,Likely,1a,EN with 0.35% range overlap
+10,Cuora amboinensis,Southeast Asian Box Turtle,REPTILIA,[1],EN,0.449520,Likely,1a,EN with 0.44% range overlap
+11,Cuora mouhotii,Keeled Box Turtle,REPTILIA,[1],EN,1.931302,Likely,1a,EN with 1.93% range overlap
+12,Cyornis magnirostris,Large Blue-flycatcher,AVES,[1],NT,1.534451,Likely,3,Migratory
+13,Elephas maximus,Asian Elephant,MAMMALIA,[1],EN,1.556397,Likely,1a,EN with 1.55% range overlap
+14,Emberiza aureola,Yellow-breasted Bunting,AVES,[1],CR,0.070649,Likely,1a,CR with 0.07% range overlap
+15,Garra annandalei,Annandale garra,ACTINOPTERYGII,[1],LC,1.204047,Likely,3,Migratory
+16,Geoclemys hamiltonii,Spotted Pond Turtle,REPTILIA,[1],EN,0.706752,Likely,1a,EN with 0.70% range overlap
+17,Gyps bengalensis,White-rumped Vulture,AVES,[1],CR,0.209591,Likely,1a,CR with 0.20% range overlap
+18,Gyps tenuirostris,Slender-billed Vulture,AVES,[1],CR,0.656190,Likely,1a,CR with 0.65% range overlap
+19,Hardella thurjii,Crowned River Turtle,REPTILIA,[1],EN,0.140531,Likely,1a,EN with 0.14% range overlap
+20,Heliopais personatus,Masked Finfoot,AVES,[1],CR,0.729552,Likely,1a,CR with 0.72% range overlap
+21,Hemixos flavala,Ashy Bulbul,AVES,[1],LC,1.109188,Likely,3,Migratory
+22,Hoolock hoolock,Western Hoolock Gibbon,MAMMALIA,[1],EN,3.455742,Likely,1a,EN with 3.45% range overlap
+23,Houbaropsis bengalensis,Bengal Florican,AVES,[1],CR,2.360958,Likely,"1a, 3","CR with 2.36% range overlap, Migratory"
+24,Houbaropsis bengalensis,Bengal Florican,AVES,[1],CR,1.712626,Likely,"1a, 3","CR with 1.71% range overlap, Migratory"
+25,Indotestudo elongata,Elongated Tortoise,REPTILIA,[1],CR,0.364270,Likely,1a,CR with 0.36% range overlap
+26,Laticilla cinerascens,Swamp Grass-babbler,AVES,[1],EN,10.24785,Likely,1a,EN with 10.2% range overlap
+27,Manis pentadactyla,Chinese Pangolin,MAMMALIA,[1],CR,0.443319,Likely,1a,CR with 0.44% range overlap
+28,Manouria emys,Asian Giant Tortoise,REPTILIA,[1],CR,1.609034,Likely,1a,CR with 1.60% range overlap
+29,Melanochelys tricarinata,Tricarinate Hill Turtle,REPTILIA,[1],EN,3.220185,Likely,1a,EN with 3.22% range overlap
+30,Microphis deocata,Deocata Pipefish,ACTINOPTERYGII,[1],NT,1.220414,Likely,3,Migratory
+31,Morenia petersi,Indian Eyed Turtle,REPTILIA,[1],EN,0.187345,Likely,1a,EN with 0.18% range overlap
+32,Nilssonia gangetica,Indian Softshell Turtle,REPTILIA,[1],EN,0.105716,Likely,1a,EN with 0.10% range overlap
+33,Nilssonia hurum,Indian Peacock Softshell Turtle,REPTILIA,[1],EN,0.555801,Likely,1a,EN with 0.55% range overlap
+34,Nilssonia nigricans,Black Softshell Turtle,REPTILIA,[1],CR,8.888839,Likely,1a,CR with 8.88% range overlap
+35,Nycticebus bengalensis,Bengal Slow Loris,MAMMALIA,[1],EN,0.596158,Likely,1a,EN with 0.59% range overlap
+36,Pangshura sylhetensis,Assam Roofed Turtle,REPTILIA,[1],CR,7.777677,Likely,1a,CR with 7.77% range overlap
+37,Panthera tigris,Tiger,MAMMALIA,[1],EN,0.612899,Likely,1a,EN with 0.61% range overlap
+38,Paradoxornis flavirostris,Black-breasted Parrotbill,AVES,[1],VU,21.40744,Likely,1b,VU with 21.407% range overlap
+39,Pellorneum palustre,Marsh Babbler,AVES,[1],VU,17.49973,Likely,1b,VU with 17.499% range overlap
+40,Perdicula manipurensis,Manipur Bush-quail,AVES,[1],EN,1.804520,Likely,1a,EN with 1.80% range overlap
+41,Perdicula manipurensis,Manipur Bush-quail,AVES,[1],EN,7.046259,Likely,1a,EN with 7.04% range overlap
+42,Phylloscopus chloronotus,Lemon-rumped Leaf-warbler,AVES,[1],LC,2.313835,Likely,3,Migratory
+43,Phylloscopus intermedius,White-spectacled Warbler,AVES,[1],LC,1.816147,Likely,3,Migratory
+44,Phylloscopus whistleri,Whistler's Warbler,AVES,[1],LC,1.615602,Likely,3,Migratory
+45,Platanista gangetica,Ganges River Dolphin,MAMMALIA,[1],EN,0.237365,Likely,1a,EN with 0.23% range overlap
+46,Platanista gangetica,Ganges River Dolphin,MAMMALIA,[1],EN,0.114714,Likely,1a,EN with 0.11% range overlap
+47,Platanista gangetica,Ganges River Dolphin,MAMMALIA,[1],EN,0.116572,Likely,1a,EN with 0.11% range overlap
+48,Ploceus megarhynchus,Finn's Weaver,AVES,[1],EN,1.769889,Likely,1a,EN with 1.76% range overlap
+49,Prinia khasiana,Rufous-crowned Prinia,AVES,[1],LC,4.943549,Likely,3,Migratory
+50,Psilorhynchus gracilis,Rainbow minnow,ACTINOPTERYGII,[1],LC,2.596432,Likely,3,Migratory
+51,Pycnonotus flavescens,Flavescent Bulbul,AVES,[1],LC,1.211034,Likely,3,Migratory
+52,Sarcogyps calvus,Red-headed Vulture,AVES,[1],CR,0.066950,Likely,1a,CR with 0.06% range overlap
+53,Sarcogyps calvus,Red-headed Vulture,AVES,[1],CR,0.208050,Likely,1a,CR with 0.20% range overlap
+54,Saroglossa spilopterus,Spot-winged Starling,AVES,[1],LC,1.677934,Likely,3,Migratory
+55,Sisor barakensis,,ACTINOPTERYGII,[1],VU,27.21753,Likely,1b,VU with 27.217% range overlap
+56,Staphida castaniceps,Striated Yuhina,AVES,[1],LC,1.531183,Likely,3,Migratory
+57,Sterna acuticauda,Black-bellied Tern,AVES,[1],EN,0.322501,Likely,1a,EN with 0.32% range overlap
+58,Tor putitora,,ACTINOPTERYGII,[1],EN,1.132250,Likely,"1a, 3","EN with 1.13% range overlap, Migratory"
+59,Trachypithecus phayrei ssp. phayrei,,MAMMALIA,[1],EN,0.090460,Likely,1a,EN with 0.09% range overlap
+60,Trachypithecus pileatus ssp. pileatus,Blond-bellied Langur,MAMMALIA,[1],EN,4.276197,Likely,1a,EN with 4.27% range overlap
+61,Yuhina bakeri,White-naped Yuhina,AVES,[1],LC,3.374066,Likely,3,Migratory
+62,Zoothera dixoni,Long-tailed Thrush,AVES,[1],LC,1.017644,Likely,3,Migratory
